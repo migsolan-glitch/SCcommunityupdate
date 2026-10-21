@@ -1,0 +1,17 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+StarCitizenLauncher.exe
+StarCitizenLauncher.spec
+
+# Scratch & temporary files
+scratch/
+translations_cache/
+
+# Local user configuration (contains local paths)
+config.json
